@@ -38,7 +38,9 @@ function Home() {
               <div className="flex space-x-3 my-3">
                 
                 <FaSquareFacebook className='text-xl md:text-3xl hover:scale-110 text-blue-800'/>
+               <a href="https://www.linkedin.com/in/himanshu-sharma-h07/">
                 <IoLogoLinkedin className='text-xl md:text-3xl hover:scale-110 text-blue-700'/>
+                </a>
                 <IoLogoYoutube className='text-xl md:text-3xl hover:scale-110 text-red-700'/>
                 <FaTelegram className='text-xl md:text-3xl hover:scale-110 text-blue-600'/>
               </div>
