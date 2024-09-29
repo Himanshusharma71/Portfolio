@@ -36,6 +36,7 @@ function Home() {
             <div>
               <h2>Available on</h2>
               <div className="flex space-x-3 my-3">
+                
                 <FaSquareFacebook className='text-xl md:text-3xl hover:scale-110 text-blue-800'/>
                 <IoLogoLinkedin className='text-xl md:text-3xl hover:scale-110 text-blue-700'/>
                 <IoLogoYoutube className='text-xl md:text-3xl hover:scale-110 text-red-700'/>
